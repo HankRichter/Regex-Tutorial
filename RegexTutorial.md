@@ -88,5 +88,5 @@ Does not match:
 
 ## Author
 
-- Github: [HankRichter](https://github.com/HankRichter)
-- Email: [hankrichter97@gmail.com](mailto:user@example.com)
+Github: [HankRichter](https://github.com/HankRichter)
+Email: [hankrichter97@gmail.com](mailto:user@example.com)
